@@ -65,8 +65,12 @@
 ## №1 UML диаграмма: Сценарий.
 ![image](https://github.com/user-attachments/assets/3ee35549-3791-405d-8114-eb94e6348379)
 
+
 ## №2 UML диаграмма: Диаграмма классов.
-![image](https://github.com/user-attachments/assets/da53efe8-7250-4913-82f6-2de7ad93538b)
+![image](https://github.com/user-attachments/assets/a260c60b-6e60-4491-94a0-10871b00788c)
+
+
+
 
 ## №3 UML диаграмма: Диаграмма последовательности.
 ![image](https://github.com/user-attachments/assets/ef05b311-a1a9-434e-b36b-19c968677b55)
